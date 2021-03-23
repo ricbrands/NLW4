@@ -1,5 +1,5 @@
 # Move.It
-Move.It is an aplication develped with ReactJS and Typescript in Next Level Week n.4 (NLW#4) of Rocketseat bootcamp.
+Move.It is an aplication developed with ReactJS and Typescript in Next Level Week n.4 (NLW#4) of Rocketseat bootcamp.
 
 In the main page, the applicaton shows the user information (photo and name), the current xp level and challenges completed.
 There is also a 25 minutes cronometer and a button to start the cronometer.
